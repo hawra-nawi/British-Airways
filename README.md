@@ -29,15 +29,4 @@ The project focuses on leveraging data science and Natural Language Processing (
 - Analyzed sentiment distribution across reviews
 - Provided actionable insights for improving customer satisfaction
 
-### Repository Structure
-
-- `web_scraping.ipynb`: Jupyter notebook containing web scraping code
-- `sentiment_analysis.ipynb`: Notebook with sentiment analysis implementation
-- `topic_modeling.ipynb`: LDA topic modeling notebook
-- `data/`: Directory containing scraped and processed data
-- `visualizations/`: Folder with generated plots and charts
-
 This project demonstrates practical application of NLP techniques in a real-world business context, showcasing skills in data collection, preprocessing, analysis, and visualization.
-
-Citations:
-[1] https://github.com/hawra-nawi/British-Airways
