@@ -1,5 +1,3 @@
-Certainly! I'll help you write a description for your README based on the content of your GitHub repository for the British Airways project. Here's a suggested README description:
-
 ## British Airways Data Science Project
 
 This repository contains the work completed as part of the British Airways Data Science virtual experience program offered by Forage.
